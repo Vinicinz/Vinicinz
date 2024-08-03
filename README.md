@@ -11,7 +11,7 @@
 ###
 <br>
 
-<div align="left">
+<div align="right">
   <a href="https://www.linkedin.com/in/viniciusqueiroztlima/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">✨ Trilhando o Caminho da Tecnologia desde 2023 <br>📚 Atualmente estou aprendendo Java e SQL<br>🎯 Objetivos: viver em um lugar frio ❄ e dominar o que estou amanado fazer 👨‍💻<br>♟ Gosto de xadrez, 🎮 videogame e minhas 🐈🐈🐈🐈🐈 gatinhas!</p>
+<p align="right">✨ Trilhando o Caminho da Tecnologia desde 2023 <br>📚 Atualmente estou aprendendo Java e SQL<br>🎯 Objetivos: viver em um lugar frio ❄ e dominar o que estou amanado fazer 👨‍💻<br>♟ Gosto de xadrez, 🎮 videogame e minhas 🐈🐈🐈🐈🐈 gatinhas!</p>
 
 ###
 <br>
