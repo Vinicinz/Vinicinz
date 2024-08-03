@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">✨ Trilhando o Caminho da Tecnologia desde 2023 <br>📚 Atualmente estou aprendendo Java e SQL<br>🎯 Objetivos: viver em um lugar frio ❄ e dominar o que estou amanado fazer 👨‍💻<br>♟ Gosto de xadrez, 🎲 jogar e minhas gatinhas!</p>
+<p align="left">✨ Trilhando o Caminho da Tecnologia desde 2023 <br>📚 Atualmente estou aprendendo Java e SQL<br>🎯 Objetivos: viver em um lugar frio ❄ e dominar o que estou amanado fazer 👨‍💻<br>♟ Gosto de xadrez, 🎮 videogame e minhas 🐈🐈🐈🐈🐈 gatinhas!</p>
 
 ###
 <br>
