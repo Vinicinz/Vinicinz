@@ -10,7 +10,6 @@
 
 ###
 <br>
-<br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/viniciusqueiroztlima/" target="_blank">
