@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">✨ Trilhando o Caminho da Tecnologia desde 2023 <br>📚 Atualmente estou aprendendo Java e SQL<br>🎯 Objetivos: viver em um lugar frio ❄ e falar inglês 🚀<br>♟ Gosto de xadrez, 🎲 jogar e minhas gatinhas!</p>
+<p align="left">✨ Trilhando o Caminho da Tecnologia desde 2023 <br>📚 Atualmente estou aprendendo Java e SQL<br>🎯 Objetivos: viver em um lugar frio ❄ e dominar o que estou amanado fazer 👨‍💻<br>♟ Gosto de xadrez, 🎲 jogar e minhas gatinhas!</p>
 
 ###
 
@@ -65,11 +65,21 @@
 
 ###
 
-<h2 align="left">Hello World!!</h2>
 
-###
-
-<img src="https://raw.githubusercontent.com/vinicinz/vinicinz/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ###
 
