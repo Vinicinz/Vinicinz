@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Olá! Sou o Vinicius, tenho 22 anos e sou estudante de Tecnologia da Informação!</p>
+<p align="left">Sou o Vinicius, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas! 👋 </p>
 
 ###
 
-<img align="left" height="170" src="https://github.com/Vinicinz/Vinicinz/blob/main/ME%20(1).gif"  />
+<img align="left" height="200" src="https://github.com/Vinicinz/Vinicinz/blob/main/ME%20(1).gif"  />
 
 ###
 
