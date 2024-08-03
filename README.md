@@ -1,8 +1,8 @@
-<h1 align="left">Olá! Seja Bem Muito Bem Vindo(a)!!</h1>
+<h1 align="center">Olá! Seja Bem Muito Bem Vindo(a)!!</h1>
 
 ###
 
-<p align="left">Sou o Vinicius, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas! 👋 </p>
+<p align="center">Sou o Vinicius, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas! 👋 </p>
 
 ###
 
