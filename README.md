@@ -9,6 +9,8 @@
 <img align="left" height="200" src="https://github.com/Vinicinz/Vinicinz/blob/main/ME%20(1).gif"  />
 
 ###
+<br>
+<br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/viniciusqueiroztlima/" target="_blank">
