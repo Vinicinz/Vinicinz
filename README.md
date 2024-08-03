@@ -10,11 +10,11 @@
 
 ###
 
-<div align="left" padding="10px">
+<div align="left">
   <a href="https://www.linkedin.com/in/viniciusqueiroztlima/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="vinicius.queiroztavareslima@gmail.com" target="_blank">
+  <a href="mailto:vinicius.queiroztavareslima@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="vinicinzzz" target="_blank">
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">✨ Trilhando o Caminho da <br>Tecnologia desde 2023<br>     📚 Atualmente estou aprendendo <br>Java e SQL<br>     🎯 Objetivos: viver em um lugar frio ❄ e falar inglês 🚀<br>     ♟ Gosto de xadrez, 🎲 jogar e minhas gatinhas!</p>
+<p align="left">✨ Trilhando o Caminho da Tecnologia desde 2023 <br>📚 Atualmente estou aprendendo Java e SQL<br>🎯 Objetivos: viver em um lugar frio ❄ e falar inglês 🚀<br>♟ Gosto de xadrez, 🎲 jogar e minhas gatinhas!</p>
 
 ###
 
@@ -69,6 +69,14 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<img src="https://raw.githubusercontent.com/vinicinz/vinicinz/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/22oc3p4er3futtktf42aw5cai">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22oc3p4er3futtktf42aw5cai&count=2&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
