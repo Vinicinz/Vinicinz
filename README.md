@@ -2,11 +2,11 @@
 
 ###
 
-<img align="left" height="170" src="https://github.com/Vinicinz/Vinicinz/blob/main/ME%20(1).gif"  />
+<p align="left">Olá! Sou o Vinicius, tenho 22 anos e sou estudante de Tecnologia da Informação!</p>
 
 ###
 
-<p align="left">Olá! Sou o Vinicius, tenho 22 anos e sou estudante de Tecnologia da Informação!</p>
+<img align="left" height="170" src="https://github.com/Vinicinz/Vinicinz/blob/main/ME%20(1).gif"  />
 
 ###
 
@@ -27,11 +27,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning english  and docker 🐳<br>🎯 Goals: live in a cold place ❄ and speak english 🚀<br>🎲 And ... i play 🎸 guitar and ♟ chess online</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning english  and docker 🐳<br>🎯 Goals: live in a cold place ❄ and speak english 🚀<br>🎲 And ... i play 🎸 guitar and ♟ chess online</p>
+<h2 align="left">About me</h2>
 
 ###
 
