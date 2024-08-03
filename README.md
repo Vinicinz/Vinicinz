@@ -28,7 +28,7 @@
 
 ###
 
-<p align="right">✨ Crescendo como desenvolvedor e apaixonado por novas tecnologias a cada nova descoberta. <br>📚 Atualmente estou aprendendo Java e SQL<br>🎯 Objetivos: viver em um lugar frio ❄ e dominar o que estou amanado fazer 👨‍💻<br>♟ Gosto de xadrez, 🎮 videogame e minhas 🐈🐈🐈🐈🐈 gatinhas!</p>
+<p align="right">✨ Crescendo como desenvolvedor e apaixonado por novas tecnologias a cada nova descoberta. <br>📚 Atualmente estou aprendendo sobre Banco de Dados e Testes de QA <br>🎯 Objetivos: Dominar o que estou amanado fazer 👨‍💻 e algum dia morar em um lugar Frio ❄ <br>♟ Gosto de xadrez, 🎮 videogame e AMO minhas 🐈🐈🐈🐈🐈 gatinhas!</p>
 
 ###
 <br>
