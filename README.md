@@ -28,8 +28,13 @@
 
 ###
 
-<p align="right">✨ Crescendo como desenvolvedor e apaixonado por novas tecnologias a cada nova descoberta. <br>📚 Atualmente estou aprendendo sobre desenvolvimento WEB e Testes de QA <br>🎯 Objetivos: Dominar o que estou amando fazer 👨‍💻 e algum dia morar em um lugar Frio ❄ <br>♟ Gosto de xadrez, 🎮 videogame e AMO minhas 🐈🐈🐈🐈🐈 gatinhas!</p>
+<p align="right"> ✨ Sou estudante de Análise e Desenvolvimento de Sistemas <br>
+  👨‍💻 Estou estagiando em Qualidade de Software (QA) <br>
+  📚 Atualmente aprendendo sobre desenvolvimento WEB com Spring e Testes de QA <br>
+  🎯 Sigo desenvolvendo minhas habilidades em computação e colocando em pratica meus atuais conhecimentos! <br>
+  ♟ Gosto de xadrez, 🎮 jogo de tudo e amo minhas 🐈🐈🐈🐈🐈 gatinhas! <br>
 
+</p>
 ###
 <br>
 <br>
